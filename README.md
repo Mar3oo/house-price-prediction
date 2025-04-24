@@ -4,9 +4,7 @@
  number of rooms, various amenities available, etc.
  In this project, we will perform house price prediction for 200 apartments in Pune city.
  Different regression models such as Linear, Random Forest, XGBoost, etc., will be
- implemented. Also, multi-layer perceptron (MLP) models will be implemented using
- scikit-learn and TensorFlow.
- This house price prediction project will help you predict the price of houses based on
+ implemented. This house price prediction project will help you predict the price of houses based on
  various features and house properties.
  ## Data Description
  We are given a real estate dataset with around 200 rows and 17 different variables that
